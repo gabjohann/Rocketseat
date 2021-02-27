@@ -7,6 +7,7 @@
  <a href="#--funcoes">Funções</a> •
  <a href="#--como-utilizar-a-aplicacao">Como utilizar a aplicação</a> •
  <a href="#--tecnologias-utilizadas">Tecnologias utilizadas</a> 
+  <a href="#--layout">Layout da aplicação</a> 
 </p>
 
 ![home](.github/homepage.png) 
@@ -75,11 +76,21 @@ A aplicação foi desenvolvida utilizando:
 
 • Editor de código -> [VSCode](https://code.visualstudio.com/)
 • Fontes -> [Inter](https://fonts.google.com/specimen/Inter) & [Rajdhani](https://fonts.google.com/specimen/Rajdhani)
+• Prototipagem -> [Figma](https://www.figma.com/)
 
 
 ### Hospedagem
 
 • [Vercel](https://vercel.com/)
+
+
+## [](https://github.com/gabjohann/NLW04-move.it#--layout)🖍  Layout da aplicação
+
+Para visualizar o layout do projeto cloque no link abaixo:
+
+• [Figma](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0)
+
+É preciso ter uma conta no Figma para acessá-lo.
 
 
 ## 📝 Licença
