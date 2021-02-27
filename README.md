@@ -1,6 +1,4 @@
-<h1 align="center" style="padding: 50px;">
 ![move.it](.github/moveit.png)
-</h1>
 
 <p align="center">
  <a href="#--sobre">Sobre</a> 
