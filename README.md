@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img src="/.github/moveit.png" />
-</p>
+</h1>
 
 <p align="center">
  <a href="#--sobre">Sobre</a> 
