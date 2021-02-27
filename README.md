@@ -7,7 +7,7 @@
  <a href="#--tecnologias-utilizadas">Tecnologias utilizadas</a> 
 </p>
 
-![home](.github/homepage.png) <br>
+![home](.github/homepage.png) 
 
 ## [](https://github.com/gabjohann/NLW04-move.it#--sobre):page_facing_up: Sobre
 
@@ -87,5 +87,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 #### Observação:
 
-Este Read.md foi baseado no que o [@Guilherme Capitão](https://github.com/guilhermecapitao) desenvolveu. <br>
+Este Read.md foi baseado no que o [@Guilherme Capitão](https://github.com/guilhermecapitao) desenvolveu. 
 Veja o dele aqui [READ.md](https://github.com/guilhermecapitao/nlw-04-reactjs-moveit)
