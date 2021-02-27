@@ -100,5 +100,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 #### Observação:
 
-Este Read.md foi baseado no que o [@Guilherme Capitão](https://github.com/guilhermecapitao) desenvolveu. 
-Veja o dele aqui [READ.md](https://github.com/guilhermecapitao/nlw-04-reactjs-moveit)
+Este Read.md foi baseado no que o [@Guilherme Capitão](https://github.com/guilhermecapitao) e a [@Lorraine Rezende](https://github.com/lorrainesrezende) desenvolveram. 
+Veja os deles aqui [READ.md](https://github.com/guilhermecapitao/nlw-04-reactjs-moveit) & [READ.md](https://github.com/gabjohann/moveitnext/blob/master/README.md)
