@@ -7,8 +7,8 @@
  <a href="#--tecnologias-utilizadas">Tecnologias utilizadas</a> 
 </p>
 
-![home](.github/homepage.png)
-<br>
+![home](.github/homepage.png) <br>
+
 ## [](https://github.com/gabjohann/NLW04-move.it#--sobre):page_facing_up: Sobre
 
 Este projeto é um cronômetro que utiliza a técnica de [pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro), ao final de cada ciclo o usuário recebe um exercício como desafio, esses desafios tem como intuito diminuir a ocorrência de lesões por movimentos repetitivos. 
