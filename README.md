@@ -1,4 +1,6 @@
-![move.it](.github/moveit.png)
+<p align="center">
+  <img src="/.github/moveit.png" />
+</p>
 
 <p align="center">
  <a href="#--sobre">Sobre</a> 
