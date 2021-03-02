@@ -69,7 +69,7 @@ A aplicação foi desenvolvida utilizando:
 • [ReactJS](https://pt-br.reactjs.org/) 
 • [Next.js](https://nextjs.org/) 
 • [TypeScript](https://www.typescriptlang.org/) 
-•  [js-cookie](https://github.com/js-cookie/js-cookie)
+• [js-cookie](https://github.com/js-cookie/js-cookie)
 
 
 ### Ferramentas
