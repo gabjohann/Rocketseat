@@ -86,7 +86,7 @@ A aplicação foi desenvolvida utilizando:
 
 ## [](https://github.com/gabjohann/NLW04-move.it#--layout)🖍  Layout da aplicação
 
-Para visualizar o layout do projeto cloque no link abaixo:
+Para visualizar o layout do projeto clique no link abaixo:
 
 • [Figma](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0)
 
