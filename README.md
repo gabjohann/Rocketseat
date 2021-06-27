@@ -35,12 +35,14 @@ A aplicação foi desenvolvida utilizando:
 ### Ferramentas
 
 • Editor de código -> [VSCode](https://code.visualstudio.com/)
+
 • Fontes -> [Poppins](https://fonts.google.com/specimen/Poppins) & [DM Sans](https://fonts.google.com/specimen/DM+Sans?query=dm+sans)
+
 • Prototipagem -> [Figma](https://www.figma.com/)
 
 ### Hospedagem
 
-• [GitHub](https://pages.github.com/)
+• [GitHub Pages](https://pages.github.com/)
 
 ## [](https://github.com/gabjohann/NLW06_beautysalon##--layout)🖍 Layout da aplicação
 
