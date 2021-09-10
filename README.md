@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
- <a href="#--sobre">Sobre</a> 
+ <a href="#--sobre">Sobre</a> •
  <a href="#--funcoes">Funções</a> •
- <a href="#--tecnologias-utilizadas">Tecnologias utilizadas</a> 
+ <a href="#--tecnologias-utilizadas">Tecnologias utilizadas</a> •
   <a href="#--layout">Layout da aplicação</a> 
 </p>
 
