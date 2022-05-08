@@ -44,10 +44,10 @@ export function WidgetForm() {
 
   return(
     <div className="bg-zinc-900 p-4 relative rounded-t-2xl mb-4 flex flex-col items-center shadow-lg w-[calc(100vw-2rem) md:w-auto]">
-   {/*  { feedbackSent ? (
+   { feedbackSent ? (
       <FeedbackSuccessStep onFeedbackRestartRequested={handleRestartFeedback} />
     ) : (
-      <> */}
+      <> 
         {!feedbackType ? (
           <FeedbackTypeStep onFeedbackTypeChange={setFeedbackType} />
         ) : (
@@ -57,8 +57,8 @@ export function WidgetForm() {
             onFeedBackSent={() => setFeedbackSent(true)}
           />
         )}
-      {/* </>
-    )} */}
+      </>
+    )}
 
       <footer className="text-xs text-neutral-400">
         Feito com ♥ pela <a className="underline underline-offset-2" href="https://rocketseat.com.br">Rocketseat</a>
