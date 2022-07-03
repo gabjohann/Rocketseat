@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/.github/moveit.png" />
+  <img src="../.github/moveit.png" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="#--layout">Layout da aplicação</a> 
 </p>
 
-![home](.github/homepage.png) 
+![home](../.github/homepage.png) 
 
 ## [](https://github.com/gabjohann/NLW04-move.it#--sobre):page_facing_up: Sobre
 
