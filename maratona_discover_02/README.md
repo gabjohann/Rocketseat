@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
+  <img alt="dev.finances" src="../.github/jobscalc.png" width="100%">
 </p>
 
 ## [](https://github.com/gabjohann/maratona-discover-02#--sobre)📄 Sobre
