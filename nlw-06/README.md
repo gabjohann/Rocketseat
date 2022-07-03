@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/Logo.png" />
+  <img src="../.github/Logo.png" />
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="#--layout">Layout da aplicação</a> 
 </p>
 
-![home](.github/preview.png)
+![home](../.github/preview.png)
 
 ## [](https://github.com/gabjohann/NLW06_beautysalon#--sobre):page_facing_up: Sobre
 
